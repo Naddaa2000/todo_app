@@ -42,3 +42,5 @@ next-env.d.ts
 
 /backend/.env
 /frontend/.env
+config.bat
+node_modules
